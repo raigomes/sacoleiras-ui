@@ -1,0 +1,28 @@
+{
+  "name": "sacoleiras",
+  "version": "1.0.0",
+  "description": "Sistema de controle de vendas de roupas para sacoleiras.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-cli": "^2.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "materialize-css": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raigomes/sacoleiras-ui.git"
+  },
+  "author": "Rai Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raigomes/sacoleiras-ui/issues"
+  },
+  "homepage": "https://github.com/raigomes/sacoleiras-ui#readme"
+}
